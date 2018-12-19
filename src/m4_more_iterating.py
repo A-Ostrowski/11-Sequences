@@ -231,6 +231,9 @@ def sum_sequence(sequence):
     #      -- The TESTING code above does use   built_ins.sum
     #         as an ORACLE in TESTING this function, however.
     # -------------------------------------------------------------------------
+    count = 0
+    for k in range(len(sequence)):
+
 
 
 def run_test_count_items_bigger_than():
