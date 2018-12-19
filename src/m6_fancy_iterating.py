@@ -388,7 +388,7 @@ def print_all_items_backwards(sequence):
        Point at (90,25)
        33
        hello
-       55
+       55 
     """
     # -------------------------------------------------------------------------
     # DONE: 4. Implement and test this function.
